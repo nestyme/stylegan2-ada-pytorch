@@ -14,7 +14,7 @@ set -e
 # cache downloaded files, custom extension builds and
 # mount the source directory into the container and make it
 # run as non-root user.
-#
+# hehe
 # Use it like:
 #
 # ./docker_run.sh python generate.py --help
